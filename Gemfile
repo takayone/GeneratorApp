@@ -59,3 +59,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.1.0'
 gem 'bootstrap', '~> 4.1.3'
+gem 'devcamp_view_tool_2', git: 'https://github.com/takayone/devcamp_view_tool_2'
